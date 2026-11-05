@@ -74,5 +74,7 @@ AtmoSync-MicroClimate-Analytics/
 
 ## Author
 
-Data Associate L1 Intern – Data Analytics
+**Priti Chavan**  
+Data Associate L1 Intern – Data Analytics  
+Infotact Solutions
 
