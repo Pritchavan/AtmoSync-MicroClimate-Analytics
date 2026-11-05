@@ -76,6 +76,3 @@ AtmoSync-MicroClimate-Analytics/
 
 Data Associate L1 Intern – Data Analytics
 
-## Note
-
-This project is being developed as part of the Data Analytics internship at Infotact Solutions. Final implementation details will follow the assigned project requirements and mentor guidance.
