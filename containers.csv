@@ -1,0 +1,1001 @@
+container_id,container_type,capacity,manufacturer,temperature_limit_min,temperature_limit_max
+CONT0001,Standard,20,Carrier,-5,8
+CONT0002,Insulated,20,Carrier,-5,4
+CONT0003,Standard,20,Daikin,-5,8
+CONT0004,Standard,20,Daikin,-5,5
+CONT0005,Reefer,20,Carrier,-5,4
+CONT0006,Reefer,20,Daikin,-5,4
+CONT0007,Standard,40,Carrier,-5,5
+CONT0008,Standard,40,Carrier,-5,4
+CONT0009,Standard,40,Thermo King,-5,5
+CONT0010,Reefer,20,Thermo King,-5,4
+CONT0011,Reefer,40,Carrier,-5,5
+CONT0012,Insulated,40,Carrier,-5,8
+CONT0013,Insulated,20,Thermo King,-5,4
+CONT0014,Standard,40,Daikin,-5,8
+CONT0015,Insulated,20,Daikin,-5,4
+CONT0016,Reefer,20,Thermo King,-5,4
+CONT0017,Reefer,20,Thermo King,-5,5
+CONT0018,Insulated,40,Carrier,-5,5
+CONT0019,Insulated,20,Daikin,-5,5
+CONT0020,Standard,20,Daikin,-5,8
+CONT0021,Reefer,20,Carrier,-5,5
+CONT0022,Insulated,40,Daikin,-5,8
+CONT0023,Standard,20,Daikin,-5,5
+CONT0024,Reefer,20,Carrier,-5,5
+CONT0025,Insulated,40,Carrier,-5,4
+CONT0026,Standard,40,Carrier,-5,8
+CONT0027,Insulated,40,Daikin,-5,5
+CONT0028,Reefer,40,Carrier,-5,4
+CONT0029,Standard,40,Daikin,-5,8
+CONT0030,Insulated,40,Thermo King,-5,4
+CONT0031,Reefer,40,Carrier,-5,4
+CONT0032,Reefer,20,Daikin,-5,4
+CONT0033,Standard,40,Daikin,-5,4
+CONT0034,Insulated,40,Daikin,-5,5
+CONT0035,Standard,40,Daikin,-5,4
+CONT0036,Standard,20,Daikin,-5,8
+CONT0037,Insulated,40,Carrier,-5,5
+CONT0038,Insulated,20,Thermo King,-5,4
+CONT0039,Standard,40,Daikin,-5,4
+CONT0040,Standard,20,Daikin,-5,5
+CONT0041,Standard,20,Carrier,-5,5
+CONT0042,Reefer,20,Daikin,-5,5
+CONT0043,Insulated,20,Carrier,-5,5
+CONT0044,Insulated,20,Carrier,-5,4
+CONT0045,Standard,20,Carrier,-5,8
+CONT0046,Insulated,20,Daikin,-5,4
+CONT0047,Reefer,40,Daikin,-5,4
+CONT0048,Insulated,40,Carrier,-5,8
+CONT0049,Standard,20,Daikin,-5,5
+CONT0050,Insulated,40,Thermo King,-5,8
+CONT0051,Insulated,20,Carrier,-5,4
+CONT0052,Reefer,40,Carrier,-5,8
+CONT0053,Standard,20,Daikin,-5,4
+CONT0054,Reefer,20,Daikin,-5,8
+CONT0055,Reefer,20,Carrier,-5,4
+CONT0056,Insulated,20,Daikin,-5,4
+CONT0057,Insulated,40,Carrier,-5,8
+CONT0058,Reefer,40,Carrier,-5,5
+CONT0059,Insulated,20,Carrier,-5,4
+CONT0060,Standard,40,Thermo King,-5,5
+CONT0061,Insulated,40,Daikin,-5,4
+CONT0062,Standard,20,Carrier,-5,5
+CONT0063,Standard,40,Carrier,-5,4
+CONT0064,Reefer,20,Daikin,-5,5
+CONT0065,Reefer,40,Carrier,-5,5
+CONT0066,Insulated,20,Carrier,-5,5
+CONT0067,Standard,20,Carrier,-5,8
+CONT0068,Standard,20,Carrier,-5,4
+CONT0069,Reefer,40,Thermo King,-5,5
+CONT0070,Reefer,40,Carrier,-5,4
+CONT0071,Insulated,20,Thermo King,-5,5
+CONT0072,Insulated,40,Thermo King,-5,8
+CONT0073,Standard,40,Carrier,-5,4
+CONT0074,Insulated,20,Carrier,-5,8
+CONT0075,Standard,20,Daikin,-5,5
+CONT0076,Reefer,20,Daikin,-5,5
+CONT0077,Standard,20,Carrier,-5,8
+CONT0078,Reefer,20,Carrier,-5,8
+CONT0079,Reefer,20,Thermo King,-5,4
+CONT0080,Standard,20,Daikin,-5,8
+CONT0081,Reefer,20,Thermo King,-5,8
+CONT0082,Standard,40,Thermo King,-5,4
+CONT0083,Standard,40,Carrier,-5,5
+CONT0084,Insulated,20,Daikin,-5,8
+CONT0085,Insulated,40,Thermo King,-5,4
+CONT0086,Reefer,40,Daikin,-5,8
+CONT0087,Reefer,20,Daikin,-5,4
+CONT0088,Standard,40,Carrier,-5,5
+CONT0089,Reefer,20,Thermo King,-5,5
+CONT0090,Reefer,40,Daikin,-5,8
+CONT0091,Insulated,20,Daikin,-5,8
+CONT0092,Insulated,20,Carrier,-5,5
+CONT0093,Reefer,20,Daikin,-5,8
+CONT0094,Reefer,40,Thermo King,-5,8
+CONT0095,Reefer,40,Carrier,-5,8
+CONT0096,Standard,40,Daikin,-5,5
+CONT0097,Insulated,20,Carrier,-5,8
+CONT0098,Insulated,40,Carrier,-5,4
+CONT0099,Insulated,20,Daikin,-5,5
+CONT0100,Reefer,40,Daikin,-5,8
+CONT0101,Insulated,20,Carrier,-5,4
+CONT0102,Standard,20,Daikin,-5,4
+CONT0103,Insulated,20,Thermo King,-5,4
+CONT0104,Reefer,40,Thermo King,-5,4
+CONT0105,Insulated,20,Daikin,-5,4
+CONT0106,Standard,20,Thermo King,-5,8
+CONT0107,Insulated,20,Carrier,-5,4
+CONT0108,Reefer,40,Carrier,-5,4
+CONT0109,Standard,40,Thermo King,-5,8
+CONT0110,Standard,20,Thermo King,-5,4
+CONT0111,Standard,20,Thermo King,-5,4
+CONT0112,Insulated,20,Carrier,-5,5
+CONT0113,Insulated,40,Carrier,-5,4
+CONT0114,Reefer,20,Thermo King,-5,5
+CONT0115,Insulated,20,Thermo King,-5,5
+CONT0116,Standard,40,Daikin,-5,8
+CONT0117,Insulated,20,Carrier,-5,5
+CONT0118,Reefer,40,Carrier,-5,4
+CONT0119,Standard,40,Thermo King,-5,8
+CONT0120,Insulated,40,Daikin,-5,8
+CONT0121,Reefer,40,Daikin,-5,4
+CONT0122,Insulated,20,Daikin,-5,5
+CONT0123,Reefer,20,Thermo King,-5,5
+CONT0124,Reefer,40,Daikin,-5,5
+CONT0125,Standard,20,Daikin,-5,5
+CONT0126,Standard,40,Daikin,-5,5
+CONT0127,Insulated,40,Daikin,-5,5
+CONT0128,Standard,20,Carrier,-5,5
+CONT0129,Standard,40,Daikin,-5,8
+CONT0130,Reefer,40,Thermo King,-5,8
+CONT0131,Reefer,40,Thermo King,-5,4
+CONT0132,Insulated,40,Thermo King,-5,5
+CONT0133,Insulated,20,Daikin,-5,5
+CONT0134,Standard,20,Daikin,-5,4
+CONT0135,Insulated,40,Carrier,-5,4
+CONT0136,Standard,40,Carrier,-5,4
+CONT0137,Reefer,20,Carrier,-5,4
+CONT0138,Insulated,20,Thermo King,-5,5
+CONT0139,Standard,20,Daikin,-5,8
+CONT0140,Insulated,40,Thermo King,-5,4
+CONT0141,Reefer,20,Carrier,-5,5
+CONT0142,Reefer,20,Daikin,-5,8
+CONT0143,Insulated,20,Daikin,-5,4
+CONT0144,Reefer,40,Carrier,-5,5
+CONT0145,Standard,40,Thermo King,-5,8
+CONT0146,Standard,40,Daikin,-5,5
+CONT0147,Reefer,40,Thermo King,-5,5
+CONT0148,Reefer,40,Daikin,-5,5
+CONT0149,Standard,20,Thermo King,-5,5
+CONT0150,Reefer,40,Carrier,-5,5
+CONT0151,Insulated,40,Daikin,-5,4
+CONT0152,Reefer,20,Carrier,-5,5
+CONT0153,Standard,20,Daikin,-5,4
+CONT0154,Reefer,40,Thermo King,-5,5
+CONT0155,Standard,40,Thermo King,-5,4
+CONT0156,Reefer,40,Thermo King,-5,8
+CONT0157,Standard,20,Daikin,-5,5
+CONT0158,Insulated,20,Thermo King,-5,5
+CONT0159,Insulated,40,Daikin,-5,8
+CONT0160,Standard,20,Thermo King,-5,4
+CONT0161,Insulated,40,Thermo King,-5,4
+CONT0162,Insulated,40,Daikin,-5,8
+CONT0163,Insulated,20,Thermo King,-5,4
+CONT0164,Standard,20,Thermo King,-5,8
+CONT0165,Standard,20,Carrier,-5,8
+CONT0166,Insulated,20,Thermo King,-5,4
+CONT0167,Reefer,40,Thermo King,-5,5
+CONT0168,Reefer,40,Thermo King,-5,5
+CONT0169,Insulated,40,Thermo King,-5,5
+CONT0170,Reefer,40,Carrier,-5,8
+CONT0171,Standard,20,Thermo King,-5,4
+CONT0172,Standard,20,Daikin,-5,4
+CONT0173,Reefer,20,Carrier,-5,4
+CONT0174,Standard,20,Carrier,-5,4
+CONT0175,Insulated,20,Daikin,-5,4
+CONT0176,Insulated,40,Thermo King,-5,4
+CONT0177,Standard,20,Carrier,-5,5
+CONT0178,Reefer,20,Thermo King,-5,8
+CONT0179,Standard,40,Thermo King,-5,8
+CONT0180,Reefer,20,Daikin,-5,8
+CONT0181,Standard,20,Carrier,-5,8
+CONT0182,Insulated,20,Daikin,-5,4
+CONT0183,Insulated,40,Daikin,-5,5
+CONT0184,Reefer,40,Carrier,-5,5
+CONT0185,Insulated,20,Thermo King,-5,5
+CONT0186,Standard,40,Daikin,-5,4
+CONT0187,Insulated,20,Daikin,-5,8
+CONT0188,Standard,40,Daikin,-5,8
+CONT0189,Insulated,40,Thermo King,-5,8
+CONT0190,Standard,40,Thermo King,-5,4
+CONT0191,Reefer,40,Thermo King,-5,4
+CONT0192,Insulated,40,Thermo King,-5,4
+CONT0193,Insulated,40,Carrier,-5,5
+CONT0194,Reefer,40,Thermo King,-5,5
+CONT0195,Insulated,40,Daikin,-5,4
+CONT0196,Standard,20,Carrier,-5,4
+CONT0197,Standard,40,Thermo King,-5,8
+CONT0198,Reefer,40,Daikin,-5,8
+CONT0199,Insulated,40,Carrier,-5,4
+CONT0200,Insulated,20,Thermo King,-5,8
+CONT0201,Reefer,40,Daikin,-5,8
+CONT0202,Insulated,40,Daikin,-5,8
+CONT0203,Insulated,40,Daikin,-5,8
+CONT0204,Insulated,40,Daikin,-5,5
+CONT0205,Insulated,40,Thermo King,-5,4
+CONT0206,Reefer,20,Thermo King,-5,4
+CONT0207,Standard,20,Carrier,-5,4
+CONT0208,Standard,40,Thermo King,-5,8
+CONT0209,Standard,40,Carrier,-5,4
+CONT0210,Insulated,20,Thermo King,-5,4
+CONT0211,Insulated,20,Daikin,-5,8
+CONT0212,Reefer,40,Carrier,-5,4
+CONT0213,Standard,40,Daikin,-5,4
+CONT0214,Standard,40,Carrier,-5,4
+CONT0215,Standard,40,Thermo King,-5,5
+CONT0216,Insulated,40,Carrier,-5,4
+CONT0217,Insulated,40,Carrier,-5,4
+CONT0218,Insulated,40,Carrier,-5,8
+CONT0219,Standard,20,Carrier,-5,4
+CONT0220,Standard,40,Carrier,-5,4
+CONT0221,Reefer,40,Daikin,-5,8
+CONT0222,Standard,20,Daikin,-5,5
+CONT0223,Insulated,40,Thermo King,-5,8
+CONT0224,Insulated,40,Daikin,-5,8
+CONT0225,Reefer,20,Carrier,-5,8
+CONT0226,Reefer,40,Daikin,-5,4
+CONT0227,Reefer,20,Carrier,-5,8
+CONT0228,Reefer,20,Carrier,-5,5
+CONT0229,Insulated,40,Thermo King,-5,4
+CONT0230,Reefer,40,Daikin,-5,5
+CONT0231,Standard,40,Carrier,-5,8
+CONT0232,Reefer,40,Daikin,-5,8
+CONT0233,Standard,20,Thermo King,-5,4
+CONT0234,Standard,20,Daikin,-5,4
+CONT0235,Insulated,20,Carrier,-5,4
+CONT0236,Reefer,40,Daikin,-5,8
+CONT0237,Standard,40,Thermo King,-5,4
+CONT0238,Insulated,40,Daikin,-5,5
+CONT0239,Insulated,40,Thermo King,-5,4
+CONT0240,Standard,20,Thermo King,-5,8
+CONT0241,Insulated,40,Carrier,-5,4
+CONT0242,Reefer,20,Daikin,-5,5
+CONT0243,Standard,20,Carrier,-5,5
+CONT0244,Standard,40,Thermo King,-5,4
+CONT0245,Standard,40,Daikin,-5,5
+CONT0246,Reefer,40,Thermo King,-5,5
+CONT0247,Insulated,40,Daikin,-5,4
+CONT0248,Reefer,40,Thermo King,-5,8
+CONT0249,Insulated,40,Daikin,-5,5
+CONT0250,Standard,20,Thermo King,-5,4
+CONT0251,Insulated,40,Thermo King,-5,4
+CONT0252,Insulated,20,Daikin,-5,8
+CONT0253,Insulated,40,Carrier,-5,4
+CONT0254,Standard,40,Daikin,-5,5
+CONT0255,Standard,40,Carrier,-5,4
+CONT0256,Insulated,20,Thermo King,-5,5
+CONT0257,Standard,40,Carrier,-5,4
+CONT0258,Standard,20,Daikin,-5,4
+CONT0259,Insulated,20,Daikin,-5,5
+CONT0260,Reefer,20,Carrier,-5,5
+CONT0261,Reefer,20,Thermo King,-5,8
+CONT0262,Insulated,40,Thermo King,-5,5
+CONT0263,Insulated,20,Thermo King,-5,8
+CONT0264,Reefer,40,Carrier,-5,8
+CONT0265,Standard,20,Carrier,-5,5
+CONT0266,Insulated,40,Daikin,-5,5
+CONT0267,Reefer,40,Daikin,-5,5
+CONT0268,Standard,40,Carrier,-5,5
+CONT0269,Standard,40,Thermo King,-5,5
+CONT0270,Standard,40,Thermo King,-5,5
+CONT0271,Reefer,20,Daikin,-5,5
+CONT0272,Reefer,40,Carrier,-5,5
+CONT0273,Standard,40,Daikin,-5,5
+CONT0274,Insulated,20,Thermo King,-5,4
+CONT0275,Reefer,40,Carrier,-5,5
+CONT0276,Reefer,40,Carrier,-5,8
+CONT0277,Reefer,40,Daikin,-5,4
+CONT0278,Reefer,40,Thermo King,-5,5
+CONT0279,Standard,40,Daikin,-5,4
+CONT0280,Insulated,40,Thermo King,-5,8
+CONT0281,Standard,40,Daikin,-5,4
+CONT0282,Standard,20,Carrier,-5,8
+CONT0283,Standard,40,Carrier,-5,8
+CONT0284,Reefer,40,Carrier,-5,8
+CONT0285,Standard,20,Thermo King,-5,4
+CONT0286,Standard,40,Carrier,-5,4
+CONT0287,Insulated,20,Thermo King,-5,5
+CONT0288,Insulated,40,Carrier,-5,4
+CONT0289,Standard,40,Daikin,-5,8
+CONT0290,Reefer,20,Carrier,-5,4
+CONT0291,Standard,40,Daikin,-5,8
+CONT0292,Reefer,40,Daikin,-5,4
+CONT0293,Reefer,40,Daikin,-5,5
+CONT0294,Insulated,40,Daikin,-5,4
+CONT0295,Insulated,40,Daikin,-5,8
+CONT0296,Reefer,20,Thermo King,-5,5
+CONT0297,Standard,40,Daikin,-5,5
+CONT0298,Standard,40,Thermo King,-5,5
+CONT0299,Reefer,40,Thermo King,-5,4
+CONT0300,Reefer,40,Daikin,-5,5
+CONT0301,Standard,40,Daikin,-5,5
+CONT0302,Reefer,40,Thermo King,-5,4
+CONT0303,Standard,20,Daikin,-5,8
+CONT0304,Insulated,40,Carrier,-5,8
+CONT0305,Insulated,20,Daikin,-5,4
+CONT0306,Standard,40,Daikin,-5,8
+CONT0307,Standard,20,Daikin,-5,4
+CONT0308,Standard,20,Thermo King,-5,5
+CONT0309,Reefer,40,Daikin,-5,4
+CONT0310,Reefer,40,Thermo King,-5,8
+CONT0311,Insulated,20,Carrier,-5,4
+CONT0312,Standard,40,Daikin,-5,8
+CONT0313,Insulated,20,Thermo King,-5,5
+CONT0314,Insulated,40,Carrier,-5,5
+CONT0315,Reefer,20,Carrier,-5,8
+CONT0316,Standard,40,Daikin,-5,5
+CONT0317,Reefer,40,Carrier,-5,5
+CONT0318,Standard,20,Thermo King,-5,5
+CONT0319,Standard,40,Daikin,-5,5
+CONT0320,Standard,40,Carrier,-5,8
+CONT0321,Reefer,40,Carrier,-5,8
+CONT0322,Standard,40,Daikin,-5,4
+CONT0323,Standard,20,Daikin,-5,5
+CONT0324,Standard,40,Daikin,-5,5
+CONT0325,Reefer,20,Carrier,-5,4
+CONT0326,Insulated,40,Carrier,-5,4
+CONT0327,Reefer,20,Thermo King,-5,5
+CONT0328,Insulated,40,Daikin,-5,8
+CONT0329,Standard,20,Thermo King,-5,8
+CONT0330,Reefer,40,Daikin,-5,5
+CONT0331,Insulated,20,Daikin,-5,5
+CONT0332,Reefer,40,Thermo King,-5,4
+CONT0333,Insulated,20,Daikin,-5,5
+CONT0334,Standard,40,Carrier,-5,5
+CONT0335,Insulated,20,Carrier,-5,5
+CONT0336,Reefer,20,Daikin,-5,8
+CONT0337,Standard,20,Carrier,-5,5
+CONT0338,Reefer,20,Daikin,-5,4
+CONT0339,Reefer,20,Daikin,-5,4
+CONT0340,Reefer,40,Carrier,-5,8
+CONT0341,Reefer,40,Carrier,-5,4
+CONT0342,Standard,40,Carrier,-5,4
+CONT0343,Standard,20,Carrier,-5,4
+CONT0344,Insulated,20,Daikin,-5,5
+CONT0345,Reefer,20,Thermo King,-5,4
+CONT0346,Reefer,40,Daikin,-5,4
+CONT0347,Standard,20,Thermo King,-5,5
+CONT0348,Insulated,20,Thermo King,-5,8
+CONT0349,Reefer,20,Daikin,-5,8
+CONT0350,Standard,40,Thermo King,-5,8
+CONT0351,Reefer,20,Thermo King,-5,5
+CONT0352,Insulated,20,Thermo King,-5,8
+CONT0353,Insulated,20,Carrier,-5,5
+CONT0354,Standard,20,Carrier,-5,4
+CONT0355,Insulated,40,Thermo King,-5,8
+CONT0356,Standard,40,Thermo King,-5,8
+CONT0357,Standard,40,Carrier,-5,8
+CONT0358,Reefer,20,Thermo King,-5,5
+CONT0359,Reefer,40,Thermo King,-5,5
+CONT0360,Insulated,40,Daikin,-5,4
+CONT0361,Insulated,40,Thermo King,-5,8
+CONT0362,Insulated,40,Carrier,-5,8
+CONT0363,Insulated,20,Carrier,-5,4
+CONT0364,Reefer,40,Carrier,-5,8
+CONT0365,Standard,40,Carrier,-5,8
+CONT0366,Reefer,40,Daikin,-5,4
+CONT0367,Insulated,40,Daikin,-5,5
+CONT0368,Standard,20,Thermo King,-5,8
+CONT0369,Insulated,40,Carrier,-5,8
+CONT0370,Standard,20,Carrier,-5,8
+CONT0371,Insulated,20,Carrier,-5,5
+CONT0372,Standard,40,Carrier,-5,5
+CONT0373,Standard,20,Thermo King,-5,8
+CONT0374,Standard,20,Daikin,-5,8
+CONT0375,Standard,40,Carrier,-5,4
+CONT0376,Insulated,40,Thermo King,-5,5
+CONT0377,Reefer,20,Carrier,-5,8
+CONT0378,Standard,40,Carrier,-5,4
+CONT0379,Standard,20,Carrier,-5,8
+CONT0380,Standard,20,Thermo King,-5,5
+CONT0381,Insulated,40,Carrier,-5,5
+CONT0382,Insulated,40,Daikin,-5,8
+CONT0383,Reefer,20,Carrier,-5,4
+CONT0384,Standard,20,Daikin,-5,4
+CONT0385,Insulated,40,Daikin,-5,5
+CONT0386,Insulated,40,Thermo King,-5,5
+CONT0387,Reefer,20,Thermo King,-5,5
+CONT0388,Reefer,40,Daikin,-5,8
+CONT0389,Standard,40,Daikin,-5,8
+CONT0390,Insulated,20,Carrier,-5,5
+CONT0391,Standard,20,Carrier,-5,4
+CONT0392,Insulated,20,Carrier,-5,5
+CONT0393,Insulated,40,Carrier,-5,4
+CONT0394,Insulated,40,Carrier,-5,4
+CONT0395,Insulated,20,Daikin,-5,8
+CONT0396,Standard,40,Carrier,-5,5
+CONT0397,Standard,20,Thermo King,-5,4
+CONT0398,Insulated,20,Thermo King,-5,8
+CONT0399,Insulated,40,Daikin,-5,8
+CONT0400,Insulated,40,Carrier,-5,5
+CONT0401,Reefer,40,Carrier,-5,8
+CONT0402,Insulated,40,Carrier,-5,5
+CONT0403,Reefer,20,Thermo King,-5,8
+CONT0404,Insulated,20,Thermo King,-5,5
+CONT0405,Standard,40,Carrier,-5,5
+CONT0406,Reefer,20,Daikin,-5,8
+CONT0407,Reefer,20,Thermo King,-5,5
+CONT0408,Standard,20,Carrier,-5,4
+CONT0409,Reefer,40,Carrier,-5,4
+CONT0410,Standard,20,Daikin,-5,4
+CONT0411,Reefer,40,Thermo King,-5,8
+CONT0412,Standard,40,Daikin,-5,8
+CONT0413,Standard,40,Daikin,-5,5
+CONT0414,Reefer,40,Carrier,-5,5
+CONT0415,Insulated,40,Thermo King,-5,8
+CONT0416,Reefer,40,Daikin,-5,4
+CONT0417,Insulated,40,Thermo King,-5,4
+CONT0418,Reefer,40,Thermo King,-5,4
+CONT0419,Standard,20,Daikin,-5,8
+CONT0420,Standard,40,Thermo King,-5,8
+CONT0421,Standard,20,Thermo King,-5,8
+CONT0422,Standard,20,Thermo King,-5,8
+CONT0423,Insulated,20,Carrier,-5,5
+CONT0424,Reefer,40,Daikin,-5,4
+CONT0425,Standard,20,Carrier,-5,4
+CONT0426,Standard,40,Thermo King,-5,8
+CONT0427,Standard,20,Thermo King,-5,5
+CONT0428,Insulated,40,Thermo King,-5,5
+CONT0429,Standard,20,Daikin,-5,8
+CONT0430,Insulated,20,Thermo King,-5,4
+CONT0431,Standard,40,Thermo King,-5,5
+CONT0432,Standard,20,Thermo King,-5,4
+CONT0433,Standard,20,Thermo King,-5,5
+CONT0434,Standard,40,Carrier,-5,8
+CONT0435,Standard,20,Thermo King,-5,8
+CONT0436,Insulated,40,Carrier,-5,8
+CONT0437,Standard,20,Daikin,-5,8
+CONT0438,Insulated,40,Carrier,-5,5
+CONT0439,Insulated,20,Carrier,-5,5
+CONT0440,Insulated,20,Carrier,-5,4
+CONT0441,Reefer,20,Thermo King,-5,4
+CONT0442,Standard,20,Daikin,-5,5
+CONT0443,Standard,20,Daikin,-5,5
+CONT0444,Reefer,20,Carrier,-5,8
+CONT0445,Standard,20,Daikin,-5,5
+CONT0446,Reefer,40,Thermo King,-5,8
+CONT0447,Standard,20,Thermo King,-5,8
+CONT0448,Insulated,40,Carrier,-5,8
+CONT0449,Reefer,40,Thermo King,-5,4
+CONT0450,Insulated,40,Thermo King,-5,5
+CONT0451,Insulated,40,Carrier,-5,4
+CONT0452,Standard,20,Thermo King,-5,4
+CONT0453,Standard,40,Thermo King,-5,8
+CONT0454,Reefer,20,Thermo King,-5,4
+CONT0455,Reefer,40,Thermo King,-5,8
+CONT0456,Reefer,40,Carrier,-5,4
+CONT0457,Insulated,40,Carrier,-5,5
+CONT0458,Reefer,40,Daikin,-5,5
+CONT0459,Reefer,40,Carrier,-5,5
+CONT0460,Reefer,20,Thermo King,-5,4
+CONT0461,Standard,40,Carrier,-5,4
+CONT0462,Reefer,40,Thermo King,-5,8
+CONT0463,Reefer,40,Thermo King,-5,8
+CONT0464,Reefer,20,Carrier,-5,5
+CONT0465,Reefer,20,Daikin,-5,8
+CONT0466,Standard,40,Carrier,-5,5
+CONT0467,Reefer,40,Carrier,-5,4
+CONT0468,Reefer,40,Daikin,-5,8
+CONT0469,Insulated,20,Carrier,-5,5
+CONT0470,Standard,20,Daikin,-5,8
+CONT0471,Standard,20,Daikin,-5,4
+CONT0472,Insulated,40,Carrier,-5,8
+CONT0473,Insulated,20,Daikin,-5,5
+CONT0474,Reefer,20,Daikin,-5,5
+CONT0475,Reefer,20,Thermo King,-5,5
+CONT0476,Reefer,40,Thermo King,-5,5
+CONT0477,Standard,20,Thermo King,-5,4
+CONT0478,Insulated,20,Daikin,-5,8
+CONT0479,Standard,20,Daikin,-5,8
+CONT0480,Insulated,20,Carrier,-5,5
+CONT0481,Standard,40,Daikin,-5,4
+CONT0482,Standard,40,Daikin,-5,5
+CONT0483,Standard,20,Carrier,-5,4
+CONT0484,Standard,40,Carrier,-5,5
+CONT0485,Reefer,20,Carrier,-5,4
+CONT0486,Insulated,40,Daikin,-5,5
+CONT0487,Standard,40,Thermo King,-5,4
+CONT0488,Standard,20,Thermo King,-5,5
+CONT0489,Reefer,40,Thermo King,-5,4
+CONT0490,Insulated,40,Thermo King,-5,8
+CONT0491,Insulated,40,Thermo King,-5,4
+CONT0492,Insulated,40,Thermo King,-5,8
+CONT0493,Insulated,20,Daikin,-5,5
+CONT0494,Reefer,40,Daikin,-5,4
+CONT0495,Standard,40,Thermo King,-5,4
+CONT0496,Reefer,40,Daikin,-5,5
+CONT0497,Insulated,40,Daikin,-5,8
+CONT0498,Insulated,20,Daikin,-5,5
+CONT0499,Insulated,40,Carrier,-5,8
+CONT0500,Insulated,40,Thermo King,-5,8
+CONT0501,Reefer,20,Daikin,-5,8
+CONT0502,Insulated,40,Daikin,-5,8
+CONT0503,Standard,20,Carrier,-5,4
+CONT0504,Standard,40,Carrier,-5,4
+CONT0505,Reefer,20,Daikin,-5,5
+CONT0506,Insulated,40,Daikin,-5,4
+CONT0507,Standard,20,Daikin,-5,5
+CONT0508,Insulated,40,Thermo King,-5,4
+CONT0509,Standard,20,Daikin,-5,5
+CONT0510,Insulated,40,Daikin,-5,5
+CONT0511,Reefer,20,Carrier,-5,8
+CONT0512,Reefer,40,Daikin,-5,5
+CONT0513,Standard,20,Thermo King,-5,5
+CONT0514,Standard,40,Carrier,-5,8
+CONT0515,Insulated,40,Carrier,-5,4
+CONT0516,Reefer,20,Thermo King,-5,4
+CONT0517,Standard,40,Carrier,-5,8
+CONT0518,Insulated,40,Daikin,-5,4
+CONT0519,Standard,40,Thermo King,-5,4
+CONT0520,Standard,20,Thermo King,-5,8
+CONT0521,Reefer,20,Carrier,-5,4
+CONT0522,Reefer,40,Carrier,-5,5
+CONT0523,Standard,40,Thermo King,-5,8
+CONT0524,Reefer,20,Carrier,-5,5
+CONT0525,Insulated,40,Daikin,-5,5
+CONT0526,Insulated,20,Carrier,-5,5
+CONT0527,Standard,20,Thermo King,-5,5
+CONT0528,Standard,40,Carrier,-5,8
+CONT0529,Standard,20,Carrier,-5,5
+CONT0530,Standard,20,Carrier,-5,8
+CONT0531,Reefer,40,Carrier,-5,4
+CONT0532,Insulated,20,Thermo King,-5,8
+CONT0533,Insulated,20,Thermo King,-5,4
+CONT0534,Standard,40,Carrier,-5,8
+CONT0535,Insulated,20,Daikin,-5,8
+CONT0536,Reefer,20,Carrier,-5,8
+CONT0537,Standard,40,Daikin,-5,4
+CONT0538,Reefer,20,Carrier,-5,8
+CONT0539,Standard,40,Daikin,-5,4
+CONT0540,Standard,40,Daikin,-5,8
+CONT0541,Reefer,40,Daikin,-5,8
+CONT0542,Insulated,40,Thermo King,-5,4
+CONT0543,Standard,40,Thermo King,-5,5
+CONT0544,Reefer,20,Carrier,-5,5
+CONT0545,Insulated,40,Thermo King,-5,4
+CONT0546,Insulated,20,Thermo King,-5,8
+CONT0547,Insulated,40,Thermo King,-5,4
+CONT0548,Insulated,20,Thermo King,-5,4
+CONT0549,Insulated,20,Thermo King,-5,5
+CONT0550,Reefer,20,Carrier,-5,4
+CONT0551,Insulated,40,Daikin,-5,5
+CONT0552,Reefer,20,Thermo King,-5,8
+CONT0553,Standard,40,Carrier,-5,4
+CONT0554,Insulated,40,Thermo King,-5,5
+CONT0555,Insulated,20,Carrier,-5,5
+CONT0556,Standard,40,Carrier,-5,4
+CONT0557,Standard,40,Carrier,-5,4
+CONT0558,Insulated,40,Daikin,-5,8
+CONT0559,Standard,40,Thermo King,-5,8
+CONT0560,Reefer,20,Thermo King,-5,4
+CONT0561,Insulated,40,Thermo King,-5,5
+CONT0562,Reefer,40,Carrier,-5,8
+CONT0563,Standard,20,Thermo King,-5,8
+CONT0564,Insulated,20,Thermo King,-5,8
+CONT0565,Insulated,40,Daikin,-5,8
+CONT0566,Standard,20,Carrier,-5,4
+CONT0567,Insulated,40,Thermo King,-5,8
+CONT0568,Insulated,20,Carrier,-5,8
+CONT0569,Standard,40,Daikin,-5,4
+CONT0570,Reefer,20,Carrier,-5,8
+CONT0571,Insulated,40,Daikin,-5,5
+CONT0572,Reefer,20,Thermo King,-5,8
+CONT0573,Insulated,20,Thermo King,-5,8
+CONT0574,Standard,40,Daikin,-5,5
+CONT0575,Standard,40,Daikin,-5,8
+CONT0576,Insulated,40,Carrier,-5,5
+CONT0577,Insulated,20,Thermo King,-5,8
+CONT0578,Insulated,20,Daikin,-5,5
+CONT0579,Insulated,20,Daikin,-5,4
+CONT0580,Standard,40,Carrier,-5,8
+CONT0581,Standard,40,Carrier,-5,8
+CONT0582,Reefer,20,Daikin,-5,8
+CONT0583,Reefer,20,Carrier,-5,5
+CONT0584,Insulated,40,Carrier,-5,5
+CONT0585,Standard,20,Thermo King,-5,8
+CONT0586,Standard,40,Daikin,-5,8
+CONT0587,Reefer,20,Daikin,-5,4
+CONT0588,Standard,40,Daikin,-5,5
+CONT0589,Standard,40,Thermo King,-5,4
+CONT0590,Insulated,40,Daikin,-5,5
+CONT0591,Standard,40,Daikin,-5,5
+CONT0592,Reefer,20,Thermo King,-5,8
+CONT0593,Insulated,20,Thermo King,-5,5
+CONT0594,Standard,20,Daikin,-5,8
+CONT0595,Insulated,40,Thermo King,-5,5
+CONT0596,Standard,40,Thermo King,-5,4
+CONT0597,Standard,40,Thermo King,-5,5
+CONT0598,Reefer,40,Carrier,-5,5
+CONT0599,Standard,20,Thermo King,-5,5
+CONT0600,Standard,40,Daikin,-5,5
+CONT0601,Reefer,20,Daikin,-5,5
+CONT0602,Standard,40,Carrier,-5,4
+CONT0603,Standard,20,Carrier,-5,4
+CONT0604,Standard,20,Daikin,-5,4
+CONT0605,Reefer,20,Thermo King,-5,5
+CONT0606,Standard,40,Carrier,-5,8
+CONT0607,Reefer,20,Daikin,-5,4
+CONT0608,Insulated,40,Thermo King,-5,8
+CONT0609,Reefer,40,Thermo King,-5,5
+CONT0610,Standard,20,Carrier,-5,8
+CONT0611,Standard,20,Daikin,-5,8
+CONT0612,Standard,20,Carrier,-5,5
+CONT0613,Reefer,20,Thermo King,-5,5
+CONT0614,Reefer,40,Carrier,-5,4
+CONT0615,Insulated,20,Thermo King,-5,5
+CONT0616,Insulated,40,Carrier,-5,8
+CONT0617,Insulated,40,Carrier,-5,4
+CONT0618,Insulated,20,Daikin,-5,5
+CONT0619,Standard,40,Daikin,-5,4
+CONT0620,Reefer,40,Thermo King,-5,8
+CONT0621,Standard,20,Carrier,-5,8
+CONT0622,Standard,40,Thermo King,-5,8
+CONT0623,Insulated,20,Thermo King,-5,8
+CONT0624,Reefer,20,Carrier,-5,5
+CONT0625,Insulated,20,Carrier,-5,5
+CONT0626,Insulated,20,Thermo King,-5,5
+CONT0627,Insulated,40,Daikin,-5,8
+CONT0628,Standard,20,Thermo King,-5,8
+CONT0629,Insulated,20,Carrier,-5,8
+CONT0630,Reefer,40,Thermo King,-5,4
+CONT0631,Insulated,40,Daikin,-5,4
+CONT0632,Standard,40,Thermo King,-5,8
+CONT0633,Reefer,20,Carrier,-5,5
+CONT0634,Reefer,40,Daikin,-5,8
+CONT0635,Insulated,40,Daikin,-5,8
+CONT0636,Insulated,20,Carrier,-5,8
+CONT0637,Standard,20,Daikin,-5,5
+CONT0638,Standard,40,Carrier,-5,8
+CONT0639,Reefer,20,Daikin,-5,8
+CONT0640,Reefer,20,Carrier,-5,5
+CONT0641,Standard,40,Carrier,-5,8
+CONT0642,Reefer,40,Carrier,-5,8
+CONT0643,Insulated,20,Thermo King,-5,4
+CONT0644,Standard,40,Thermo King,-5,8
+CONT0645,Reefer,40,Daikin,-5,5
+CONT0646,Standard,20,Thermo King,-5,5
+CONT0647,Reefer,20,Daikin,-5,4
+CONT0648,Reefer,40,Thermo King,-5,8
+CONT0649,Reefer,20,Carrier,-5,5
+CONT0650,Reefer,40,Thermo King,-5,4
+CONT0651,Reefer,40,Thermo King,-5,5
+CONT0652,Insulated,40,Thermo King,-5,4
+CONT0653,Standard,20,Daikin,-5,5
+CONT0654,Reefer,20,Daikin,-5,5
+CONT0655,Standard,20,Daikin,-5,4
+CONT0656,Reefer,20,Thermo King,-5,5
+CONT0657,Standard,40,Daikin,-5,5
+CONT0658,Reefer,20,Thermo King,-5,5
+CONT0659,Reefer,40,Carrier,-5,8
+CONT0660,Reefer,20,Daikin,-5,5
+CONT0661,Standard,20,Carrier,-5,4
+CONT0662,Reefer,20,Daikin,-5,4
+CONT0663,Insulated,20,Carrier,-5,8
+CONT0664,Reefer,40,Thermo King,-5,4
+CONT0665,Standard,20,Carrier,-5,4
+CONT0666,Standard,40,Carrier,-5,8
+CONT0667,Standard,40,Daikin,-5,8
+CONT0668,Standard,40,Carrier,-5,5
+CONT0669,Reefer,20,Thermo King,-5,5
+CONT0670,Insulated,20,Daikin,-5,8
+CONT0671,Standard,20,Daikin,-5,8
+CONT0672,Insulated,40,Carrier,-5,5
+CONT0673,Standard,40,Daikin,-5,5
+CONT0674,Standard,40,Thermo King,-5,4
+CONT0675,Insulated,40,Carrier,-5,8
+CONT0676,Insulated,20,Carrier,-5,5
+CONT0677,Standard,20,Thermo King,-5,4
+CONT0678,Standard,40,Thermo King,-5,8
+CONT0679,Standard,20,Thermo King,-5,4
+CONT0680,Insulated,20,Thermo King,-5,8
+CONT0681,Reefer,40,Thermo King,-5,4
+CONT0682,Standard,20,Carrier,-5,5
+CONT0683,Insulated,20,Carrier,-5,4
+CONT0684,Standard,20,Thermo King,-5,4
+CONT0685,Insulated,40,Carrier,-5,4
+CONT0686,Reefer,20,Daikin,-5,5
+CONT0687,Reefer,20,Thermo King,-5,4
+CONT0688,Standard,40,Thermo King,-5,5
+CONT0689,Insulated,40,Thermo King,-5,5
+CONT0690,Insulated,40,Thermo King,-5,4
+CONT0691,Standard,40,Thermo King,-5,4
+CONT0692,Insulated,40,Thermo King,-5,4
+CONT0693,Standard,20,Daikin,-5,4
+CONT0694,Reefer,40,Daikin,-5,8
+CONT0695,Standard,40,Thermo King,-5,4
+CONT0696,Reefer,40,Carrier,-5,5
+CONT0697,Standard,20,Thermo King,-5,8
+CONT0698,Standard,40,Thermo King,-5,5
+CONT0699,Standard,40,Thermo King,-5,4
+CONT0700,Standard,40,Carrier,-5,4
+CONT0701,Standard,40,Carrier,-5,8
+CONT0702,Standard,20,Daikin,-5,4
+CONT0703,Reefer,20,Carrier,-5,5
+CONT0704,Reefer,20,Carrier,-5,8
+CONT0705,Reefer,20,Carrier,-5,8
+CONT0706,Insulated,40,Carrier,-5,8
+CONT0707,Standard,40,Daikin,-5,5
+CONT0708,Reefer,20,Daikin,-5,8
+CONT0709,Insulated,20,Carrier,-5,8
+CONT0710,Standard,40,Daikin,-5,5
+CONT0711,Reefer,40,Carrier,-5,4
+CONT0712,Reefer,20,Carrier,-5,4
+CONT0713,Standard,40,Thermo King,-5,5
+CONT0714,Insulated,20,Thermo King,-5,5
+CONT0715,Insulated,20,Daikin,-5,4
+CONT0716,Insulated,20,Daikin,-5,8
+CONT0717,Reefer,20,Thermo King,-5,5
+CONT0718,Insulated,40,Carrier,-5,8
+CONT0719,Reefer,20,Carrier,-5,5
+CONT0720,Insulated,40,Daikin,-5,4
+CONT0721,Standard,20,Carrier,-5,4
+CONT0722,Standard,40,Thermo King,-5,4
+CONT0723,Reefer,40,Daikin,-5,8
+CONT0724,Standard,20,Carrier,-5,5
+CONT0725,Reefer,20,Daikin,-5,4
+CONT0726,Standard,40,Carrier,-5,5
+CONT0727,Reefer,20,Daikin,-5,5
+CONT0728,Standard,40,Thermo King,-5,8
+CONT0729,Reefer,20,Daikin,-5,8
+CONT0730,Insulated,20,Carrier,-5,5
+CONT0731,Reefer,20,Thermo King,-5,8
+CONT0732,Standard,40,Thermo King,-5,4
+CONT0733,Standard,40,Thermo King,-5,5
+CONT0734,Reefer,40,Daikin,-5,5
+CONT0735,Insulated,20,Daikin,-5,8
+CONT0736,Standard,40,Carrier,-5,8
+CONT0737,Insulated,20,Daikin,-5,4
+CONT0738,Reefer,40,Carrier,-5,5
+CONT0739,Standard,20,Daikin,-5,5
+CONT0740,Insulated,40,Carrier,-5,4
+CONT0741,Reefer,40,Thermo King,-5,5
+CONT0742,Insulated,20,Carrier,-5,4
+CONT0743,Reefer,40,Thermo King,-5,8
+CONT0744,Standard,40,Carrier,-5,4
+CONT0745,Reefer,40,Daikin,-5,4
+CONT0746,Standard,40,Thermo King,-5,4
+CONT0747,Insulated,40,Thermo King,-5,4
+CONT0748,Standard,20,Daikin,-5,8
+CONT0749,Reefer,40,Carrier,-5,4
+CONT0750,Insulated,40,Thermo King,-5,5
+CONT0751,Reefer,20,Carrier,-5,5
+CONT0752,Insulated,40,Thermo King,-5,5
+CONT0753,Reefer,40,Thermo King,-5,4
+CONT0754,Standard,40,Daikin,-5,8
+CONT0755,Reefer,40,Carrier,-5,4
+CONT0756,Insulated,20,Thermo King,-5,5
+CONT0757,Standard,40,Thermo King,-5,5
+CONT0758,Insulated,40,Daikin,-5,8
+CONT0759,Reefer,40,Thermo King,-5,8
+CONT0760,Standard,20,Thermo King,-5,5
+CONT0761,Reefer,40,Thermo King,-5,5
+CONT0762,Standard,40,Daikin,-5,4
+CONT0763,Insulated,40,Thermo King,-5,5
+CONT0764,Insulated,20,Daikin,-5,4
+CONT0765,Standard,20,Daikin,-5,8
+CONT0766,Reefer,40,Daikin,-5,4
+CONT0767,Insulated,40,Daikin,-5,4
+CONT0768,Insulated,40,Carrier,-5,8
+CONT0769,Insulated,20,Thermo King,-5,8
+CONT0770,Reefer,40,Thermo King,-5,4
+CONT0771,Insulated,40,Daikin,-5,5
+CONT0772,Standard,40,Daikin,-5,4
+CONT0773,Insulated,20,Carrier,-5,4
+CONT0774,Standard,40,Carrier,-5,8
+CONT0775,Standard,20,Daikin,-5,8
+CONT0776,Standard,40,Thermo King,-5,5
+CONT0777,Reefer,20,Carrier,-5,5
+CONT0778,Reefer,20,Thermo King,-5,5
+CONT0779,Insulated,40,Daikin,-5,8
+CONT0780,Standard,20,Thermo King,-5,4
+CONT0781,Insulated,20,Thermo King,-5,5
+CONT0782,Reefer,20,Daikin,-5,4
+CONT0783,Insulated,40,Thermo King,-5,5
+CONT0784,Reefer,40,Thermo King,-5,5
+CONT0785,Reefer,40,Daikin,-5,8
+CONT0786,Insulated,40,Carrier,-5,5
+CONT0787,Reefer,20,Carrier,-5,5
+CONT0788,Standard,20,Daikin,-5,4
+CONT0789,Standard,20,Daikin,-5,4
+CONT0790,Standard,20,Thermo King,-5,8
+CONT0791,Insulated,40,Carrier,-5,5
+CONT0792,Standard,20,Carrier,-5,8
+CONT0793,Standard,40,Thermo King,-5,4
+CONT0794,Standard,20,Thermo King,-5,8
+CONT0795,Insulated,40,Carrier,-5,8
+CONT0796,Reefer,20,Thermo King,-5,8
+CONT0797,Reefer,20,Daikin,-5,4
+CONT0798,Insulated,40,Carrier,-5,5
+CONT0799,Reefer,40,Daikin,-5,5
+CONT0800,Standard,40,Daikin,-5,5
+CONT0801,Standard,40,Daikin,-5,4
+CONT0802,Insulated,40,Thermo King,-5,8
+CONT0803,Reefer,40,Daikin,-5,8
+CONT0804,Reefer,20,Thermo King,-5,4
+CONT0805,Reefer,40,Carrier,-5,4
+CONT0806,Insulated,20,Daikin,-5,5
+CONT0807,Insulated,20,Daikin,-5,5
+CONT0808,Insulated,20,Thermo King,-5,8
+CONT0809,Standard,20,Daikin,-5,4
+CONT0810,Insulated,40,Carrier,-5,4
+CONT0811,Insulated,40,Daikin,-5,4
+CONT0812,Insulated,20,Thermo King,-5,4
+CONT0813,Reefer,40,Daikin,-5,8
+CONT0814,Standard,40,Thermo King,-5,8
+CONT0815,Insulated,40,Daikin,-5,5
+CONT0816,Insulated,20,Carrier,-5,8
+CONT0817,Reefer,20,Thermo King,-5,4
+CONT0818,Insulated,20,Daikin,-5,5
+CONT0819,Reefer,40,Daikin,-5,8
+CONT0820,Insulated,20,Daikin,-5,4
+CONT0821,Insulated,40,Daikin,-5,4
+CONT0822,Standard,40,Daikin,-5,4
+CONT0823,Insulated,20,Daikin,-5,8
+CONT0824,Reefer,40,Carrier,-5,5
+CONT0825,Insulated,40,Carrier,-5,5
+CONT0826,Reefer,20,Carrier,-5,8
+CONT0827,Standard,40,Daikin,-5,8
+CONT0828,Standard,40,Carrier,-5,8
+CONT0829,Reefer,20,Carrier,-5,4
+CONT0830,Standard,40,Daikin,-5,5
+CONT0831,Standard,20,Thermo King,-5,8
+CONT0832,Insulated,40,Daikin,-5,5
+CONT0833,Standard,20,Carrier,-5,5
+CONT0834,Reefer,40,Daikin,-5,4
+CONT0835,Standard,20,Carrier,-5,4
+CONT0836,Standard,40,Carrier,-5,8
+CONT0837,Insulated,40,Carrier,-5,8
+CONT0838,Standard,40,Daikin,-5,5
+CONT0839,Insulated,40,Carrier,-5,8
+CONT0840,Reefer,40,Daikin,-5,8
+CONT0841,Insulated,40,Thermo King,-5,5
+CONT0842,Insulated,20,Daikin,-5,4
+CONT0843,Standard,40,Daikin,-5,8
+CONT0844,Standard,40,Carrier,-5,8
+CONT0845,Insulated,20,Thermo King,-5,4
+CONT0846,Insulated,40,Thermo King,-5,5
+CONT0847,Insulated,20,Daikin,-5,5
+CONT0848,Insulated,20,Carrier,-5,4
+CONT0849,Standard,40,Carrier,-5,4
+CONT0850,Reefer,40,Thermo King,-5,4
+CONT0851,Insulated,20,Daikin,-5,4
+CONT0852,Standard,40,Carrier,-5,5
+CONT0853,Reefer,40,Thermo King,-5,4
+CONT0854,Insulated,20,Carrier,-5,5
+CONT0855,Standard,40,Daikin,-5,8
+CONT0856,Reefer,40,Daikin,-5,4
+CONT0857,Standard,20,Carrier,-5,4
+CONT0858,Insulated,20,Carrier,-5,8
+CONT0859,Reefer,40,Carrier,-5,4
+CONT0860,Standard,40,Carrier,-5,5
+CONT0861,Standard,20,Thermo King,-5,4
+CONT0862,Reefer,40,Carrier,-5,8
+CONT0863,Reefer,20,Thermo King,-5,5
+CONT0864,Insulated,20,Thermo King,-5,4
+CONT0865,Standard,20,Carrier,-5,8
+CONT0866,Standard,20,Daikin,-5,8
+CONT0867,Reefer,40,Thermo King,-5,8
+CONT0868,Reefer,20,Thermo King,-5,8
+CONT0869,Standard,40,Carrier,-5,4
+CONT0870,Reefer,20,Carrier,-5,8
+CONT0871,Standard,40,Thermo King,-5,5
+CONT0872,Insulated,20,Carrier,-5,5
+CONT0873,Standard,20,Carrier,-5,8
+CONT0874,Standard,40,Daikin,-5,4
+CONT0875,Standard,40,Carrier,-5,8
+CONT0876,Standard,20,Daikin,-5,5
+CONT0877,Insulated,20,Carrier,-5,5
+CONT0878,Insulated,20,Carrier,-5,5
+CONT0879,Standard,20,Daikin,-5,4
+CONT0880,Insulated,40,Carrier,-5,5
+CONT0881,Standard,40,Thermo King,-5,8
+CONT0882,Standard,20,Thermo King,-5,4
+CONT0883,Reefer,20,Carrier,-5,5
+CONT0884,Reefer,20,Carrier,-5,5
+CONT0885,Standard,40,Daikin,-5,8
+CONT0886,Standard,40,Thermo King,-5,8
+CONT0887,Insulated,20,Daikin,-5,8
+CONT0888,Standard,20,Thermo King,-5,4
+CONT0889,Insulated,20,Daikin,-5,4
+CONT0890,Reefer,40,Thermo King,-5,8
+CONT0891,Standard,20,Thermo King,-5,8
+CONT0892,Insulated,20,Carrier,-5,4
+CONT0893,Reefer,40,Carrier,-5,5
+CONT0894,Standard,20,Thermo King,-5,8
+CONT0895,Standard,20,Carrier,-5,4
+CONT0896,Standard,20,Daikin,-5,4
+CONT0897,Reefer,40,Thermo King,-5,8
+CONT0898,Standard,40,Carrier,-5,5
+CONT0899,Reefer,40,Daikin,-5,4
+CONT0900,Reefer,40,Thermo King,-5,5
+CONT0901,Standard,20,Thermo King,-5,8
+CONT0902,Standard,20,Thermo King,-5,5
+CONT0903,Standard,40,Carrier,-5,5
+CONT0904,Standard,20,Thermo King,-5,4
+CONT0905,Insulated,20,Daikin,-5,8
+CONT0906,Standard,20,Carrier,-5,8
+CONT0907,Standard,20,Carrier,-5,4
+CONT0908,Reefer,20,Thermo King,-5,5
+CONT0909,Insulated,20,Carrier,-5,4
+CONT0910,Standard,40,Carrier,-5,5
+CONT0911,Reefer,40,Daikin,-5,5
+CONT0912,Insulated,20,Daikin,-5,5
+CONT0913,Reefer,20,Carrier,-5,4
+CONT0914,Standard,20,Thermo King,-5,4
+CONT0915,Insulated,40,Thermo King,-5,5
+CONT0916,Reefer,40,Carrier,-5,5
+CONT0917,Reefer,40,Daikin,-5,5
+CONT0918,Standard,20,Thermo King,-5,5
+CONT0919,Standard,40,Carrier,-5,8
+CONT0920,Standard,20,Carrier,-5,4
+CONT0921,Insulated,20,Carrier,-5,8
+CONT0922,Insulated,20,Thermo King,-5,4
+CONT0923,Standard,40,Daikin,-5,8
+CONT0924,Insulated,20,Carrier,-5,8
+CONT0925,Reefer,40,Thermo King,-5,4
+CONT0926,Reefer,40,Carrier,-5,4
+CONT0927,Reefer,40,Daikin,-5,5
+CONT0928,Insulated,20,Daikin,-5,4
+CONT0929,Standard,20,Daikin,-5,5
+CONT0930,Reefer,20,Thermo King,-5,8
+CONT0931,Reefer,20,Thermo King,-5,5
+CONT0932,Insulated,40,Daikin,-5,8
+CONT0933,Insulated,40,Thermo King,-5,5
+CONT0934,Reefer,20,Carrier,-5,4
+CONT0935,Standard,20,Carrier,-5,4
+CONT0936,Reefer,40,Thermo King,-5,5
+CONT0937,Insulated,20,Daikin,-5,5
+CONT0938,Reefer,40,Thermo King,-5,5
+CONT0939,Insulated,20,Carrier,-5,4
+CONT0940,Standard,40,Daikin,-5,8
+CONT0941,Standard,20,Carrier,-5,5
+CONT0942,Reefer,20,Daikin,-5,4
+CONT0943,Insulated,40,Daikin,-5,4
+CONT0944,Standard,40,Thermo King,-5,4
+CONT0945,Reefer,40,Thermo King,-5,8
+CONT0946,Standard,20,Carrier,-5,5
+CONT0947,Reefer,20,Carrier,-5,4
+CONT0948,Reefer,20,Carrier,-5,4
+CONT0949,Insulated,40,Daikin,-5,8
+CONT0950,Standard,20,Daikin,-5,8
+CONT0951,Insulated,20,Carrier,-5,4
+CONT0952,Reefer,40,Carrier,-5,4
+CONT0953,Insulated,20,Carrier,-5,5
+CONT0954,Reefer,20,Daikin,-5,5
+CONT0955,Standard,40,Thermo King,-5,4
+CONT0956,Insulated,40,Carrier,-5,5
+CONT0957,Reefer,20,Thermo King,-5,5
+CONT0958,Insulated,20,Carrier,-5,8
+CONT0959,Standard,20,Daikin,-5,5
+CONT0960,Insulated,40,Daikin,-5,5
+CONT0961,Reefer,20,Thermo King,-5,5
+CONT0962,Reefer,40,Carrier,-5,8
+CONT0963,Standard,20,Daikin,-5,8
+CONT0964,Reefer,40,Daikin,-5,5
+CONT0965,Insulated,40,Thermo King,-5,8
+CONT0966,Standard,40,Thermo King,-5,5
+CONT0967,Reefer,20,Thermo King,-5,8
+CONT0968,Reefer,20,Thermo King,-5,4
+CONT0969,Insulated,40,Daikin,-5,4
+CONT0970,Reefer,20,Carrier,-5,8
+CONT0971,Reefer,40,Daikin,-5,8
+CONT0972,Reefer,20,Daikin,-5,5
+CONT0973,Insulated,20,Carrier,-5,4
+CONT0974,Standard,40,Daikin,-5,8
+CONT0975,Insulated,20,Daikin,-5,8
+CONT0976,Insulated,20,Daikin,-5,4
+CONT0977,Insulated,40,Carrier,-5,5
+CONT0978,Reefer,20,Carrier,-5,4
+CONT0979,Standard,20,Carrier,-5,8
+CONT0980,Insulated,20,Thermo King,-5,8
+CONT0981,Reefer,20,Thermo King,-5,8
+CONT0982,Reefer,40,Carrier,-5,4
+CONT0983,Reefer,20,Carrier,-5,8
+CONT0984,Insulated,20,Thermo King,-5,8
+CONT0985,Standard,40,Daikin,-5,4
+CONT0986,Insulated,40,Thermo King,-5,4
+CONT0987,Reefer,40,Daikin,-5,5
+CONT0988,Standard,40,Carrier,-5,8
+CONT0989,Standard,40,Carrier,-5,8
+CONT0990,Standard,20,Thermo King,-5,5
+CONT0991,Standard,40,Carrier,-5,4
+CONT0992,Standard,20,Daikin,-5,8
+CONT0993,Insulated,20,Carrier,-5,8
+CONT0994,Insulated,20,Daikin,-5,8
+CONT0995,Reefer,40,Carrier,-5,5
+CONT0996,Standard,20,Carrier,-5,5
+CONT0997,Insulated,20,Daikin,-5,4
+CONT0998,Standard,40,Thermo King,-5,4
+CONT0999,Insulated,20,Carrier,-5,8
+CONT1000,Reefer,40,Thermo King,-5,4
